@@ -60,3 +60,7 @@ GET http://127.0.0.1:8000/api/search/?q=Peanut+Butter
 * Ensure Redis is running locally or adjust `REDIS_URL`.
 * Google API limits may restrict the number of searches per day.
 * Use `.env` to keep sensitive information secure.
+
+
+## Demo Video
+* https://drive.google.com/file/d/1_SLU7eqZlf4KLxmbIUhpmyECkBY0z_EX/view?usp=sharing
